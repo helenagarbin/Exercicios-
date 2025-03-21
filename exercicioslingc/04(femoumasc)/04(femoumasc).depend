@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713488879 source:c:\exercicioslingc\04(femoumasc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

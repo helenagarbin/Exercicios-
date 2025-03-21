@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713485194 source:c:\exercicioslingc\01(media)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
